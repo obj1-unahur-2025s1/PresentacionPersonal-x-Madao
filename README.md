@@ -11,3 +11,5 @@
 ### Otra Información
 
 Hola!, este es mi segundo año estudiando en la unahur. Me queda media tecnicatura por delante aun y , si todo sale bien, planeo hacer la licenciatura.
+
+# No me gustan las presentaciones. 
