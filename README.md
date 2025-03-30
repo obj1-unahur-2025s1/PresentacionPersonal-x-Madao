@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Nicolas Cao
+- Vivo en Villa Tesei
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+
+Hola!, este es mi segundo año estudiando en la unahur. Me queda media tecnicatura por delante aun y , si todo sale bien, planeo hacer la licenciatura.
